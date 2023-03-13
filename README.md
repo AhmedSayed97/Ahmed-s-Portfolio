@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedSayed97
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Tableau, Excel
+- 🌱 I’m currently learning Python, Tableau, Excel, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
