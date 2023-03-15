@@ -1,13 +1,39 @@
-- 👋 Hi, I’m @AhmedSayed97
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Tableau, Excel, SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ahmed's_portfolio
+Data analysis portfolio
 
-<!---
-AhmedSayed97/AhmedSayed97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# [Project 1: English Premier League (EPL) players stats season 2021-2022](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/EPL_players_stats.xlsx)
+
+I worked on this project to show my data analysis skills using MS Excel.
+* I got the data from kaggle's datasets.
+* Started working on this project by copying the dataset, and inserting it in a worksheet (all_players_stats cleaned).
+* Inserted the data into a table.
+* Checked if there are duplicate values (no duplicate values were found).
+* Checked if there are missing values (Blanks) (no missing values were found).
+* Cleaned the data in Player column by removing unwanted characters and inserting the players names correctly by using Find & Replace.
+* Inserted the data into a pivot table, then added pivotcharts to make some visualizations.
+* Inserted pivotcharts into a dashboard.
+
+## Overview of the dashboard
+![](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/pictures/EPL%20players%20stats.png)
+
+
+
+# [Project 2: Supermarket sales](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/supermarket_sales.xlsx)
+
+I worked on this project to show my data analysis skills using MS Excel.
+* I got the data from kaggle's datasets.
+* Started working on this project by copying the dataset, and inserting it in a worksheet (working sheet).
+* Inserted the data into a table.
+* Checked if there are duplicate values (no duplicate values were found).
+* Checked if there are missing values (Blanks) (no missing values were found).
+* Inserted the data into a pivot table, then added pivotcharts to make some visualizations.
+* Inserted pivotcharts into a dashboard.
+
+## Overview of the dashboard
+![](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/pictures/Supermarket%20sales.png)
+
+
 * Inserted the data into a table.
 * Checked if there are duplicate values (no duplicate values were found).
 * Checked if there are missing values (Blanks) (no missing values were found).
