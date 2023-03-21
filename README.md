@@ -34,17 +34,6 @@ I worked on this project to show my data analysis skills using MS Excel.
 ![](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/pictures/Supermarket%20sales.png)
 
 
-* Inserted the data into a table.
-* Checked if there are duplicate values (no duplicate values were found).
-* Checked if there are missing values (Blanks) (no missing values were found).
-* Inserted the data into a pivot table, then added pivot charts to make some visualizations.
-* Inserted pivotcharts into a dashboard.
-
-## Overview of the dashboard
-![](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/pictures/Supermarket%20sales.png)
-
-
-
 
 # [Project 3: bike buyers dataset](https://github.com/AhmedSayed97/AhmedSayed97/blob/main/bike_buyers.xlsx)
 
