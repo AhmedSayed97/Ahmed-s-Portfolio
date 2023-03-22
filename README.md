@@ -21,7 +21,7 @@ I worked on this project to show my skills in data analysis using MS Excel.
 
 * I got the data from kaggle's datasets.
 * Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, no missing values were found.
-* Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** From **M** and **S** to **Married** and **Single** using **Find&Replace**.
+* Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** column From **M** and **S** to **Married** and **Single** using **Find&Replace**.
 * Added a column **Age Category** using **IF** function.
 * Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
 * Inserted **pivotcharts** into a Dashboard.
