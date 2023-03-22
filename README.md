@@ -1,7 +1,7 @@
 # Ahmed's Portfolio
 
 
-#[Project 1: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/EPL_players_stats.xlsx)
+# [Project 1: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/EPL_players_stats.xlsx)
 
 I worked on this project to show my skills in data analysis using MS Excel.
 
