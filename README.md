@@ -27,3 +27,16 @@ I worked on this project to show my skills in data analysis using MS Excel.
 * Inserted **pivotcharts** into a Dashboard.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Bike%20buyers.png)
+
+
+
+# [Project 3: Supermarket sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/supermarket_sales.xlsx)
+
+I worked on this project to show my skills in data analysis using MS Excel.
+
+* I got the data from kaggle's datasets.
+* Started the project by cleaning the data (checked if there are any duplicate values or missing values) no duplicates or missing values were found.
+* Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
+* Inserted **pivotcharts** into a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Supermarket%20sales.png)
