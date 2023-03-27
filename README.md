@@ -48,7 +48,7 @@ I worked on this project to show my skills in data analysis using MS Excel.
 I worked on this project to show my skills in data analysis using MS SQL Server and Tableau.
 
 * I got the data from kaggle's datasets.
-* The functions used in this project (**CASE**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **ISNULL**)
+* The statements used in this project (**CASE**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **ISNULL**)
 * Exported the cleaned Data as a **CSV** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
