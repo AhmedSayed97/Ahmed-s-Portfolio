@@ -1,4 +1,4 @@
-# Ahmed's Portfolio
+# Data Analysis' Portfolio
 
 
 # [Project 1: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/EPL_players_stats.xlsx)
@@ -40,3 +40,19 @@ I worked on this project to show my skills in data analysis using MS Excel.
 * Inserted **pivotcharts** into a Dashboard.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Supermarket%20sales.png)
+
+
+
+# [Project 4: Property sales in Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
+
+I worked on this project to show my skills in data analysis using MS SQL Server and Tableau.
+
+* I got the data from kaggle's datasets.
+* The functions used in this project (**CASE**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **ISNULL**)
+* Exported the cleaned Data as a **CSV** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20Melbourne%20City.png)
+
+
