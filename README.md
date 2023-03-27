@@ -43,7 +43,7 @@ I worked on this project to show my skills in data analysis using MS Excel.
 
 
 
-# [Project 4: Property sales in Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
+# [Project 4: Property sales:Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
 
 I worked on this project to show my skills in data analysis using MS SQL Server and Tableau.
 
