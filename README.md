@@ -53,6 +53,6 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20Melbourne%20City.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20(Melbourne%20City).png)
 
 
