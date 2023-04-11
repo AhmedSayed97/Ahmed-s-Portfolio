@@ -62,7 +62,7 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 I worked on this project to show my skills in data analysis using MS SQL Server and Tableau.
 
 * I got the data from kaggle's datasets.
-* The statements used in this project (**WHERE**, **Select**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **COALESCE**, **MAX**, **MIN**, **SUM**, **AVG**, **Group By**, **Order By**)
+* The statements used in this project (**Where**, **Select**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **COALESCE**, **MAX**, **MIN**, **SUM**, **AVG**, **Group By**, **Order By**)
 * Exported the cleaned Data as a **xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
