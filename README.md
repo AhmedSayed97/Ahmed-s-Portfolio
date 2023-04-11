@@ -56,3 +56,15 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20(Melbourne%20City).png)
 
 
+
+# [Project 5: PC Games Sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/PC%20Games%20sales.sql)
+
+I worked on this project to show my skills in data analysis using MS SQL Server and Tableau.
+
+* I got the data from kaggle's datasets.
+* The statements used in this project (**WHERE**, **Select**, **ALTER TABLE**, **UPDATE**, **CTE** (common table expression or With statement), **COALESCE**, **MAX**, **MIN**, **SUM**, **AVG**, **Group By**, **Order By**)
+* Exported the cleaned Data as a **xlsx** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
