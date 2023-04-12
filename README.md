@@ -11,7 +11,7 @@ I worked on this project to show my skills in data analysis using MS Excel.
 * Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
 * Inserted **pivotcharts** into a Dashboard.
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/EPL%20players%20stats.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/EPL.png)
 
 
 
