@@ -71,8 +71,8 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 
 
 
-# [Project 6: Top 100 US companies by Revenue in 2022]([https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/PC%20Games%20sales.sql](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
+# [Project 6: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
-## Overview of the Dashboard ![]([https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/5ce3244a021b4c796c4ef243.webp)https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/5ce3244a021b4c796c4ef243.webp)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/5ce3244a021b4c796c4ef243.webp)
