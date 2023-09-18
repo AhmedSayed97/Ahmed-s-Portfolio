@@ -75,7 +75,7 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/e89tVzo.jpg)
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/e89tVzo.jpg)
 
 
 
@@ -84,4 +84,4 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/how-to-forecast-balance-sheet-and-income-statement.webp)
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
