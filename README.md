@@ -76,3 +76,12 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/e89tVzo.jpg)
+
+
+
+
+# [Project 7: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Company%20Financials%20Dataset.ipynb)
+
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/how-to-forecast-balance-sheet-and-income-statement.webp)
