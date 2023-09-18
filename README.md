@@ -67,7 +67,7 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
 
 
 
@@ -75,7 +75,7 @@ I worked on this project to show my skills in data analysis using MS SQL Server 
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/e89tVzo.jpg)
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/e89tVzo.jpg)
 
 
 
