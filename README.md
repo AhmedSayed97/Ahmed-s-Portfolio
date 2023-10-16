@@ -99,3 +99,13 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
+
+
+
+
+
+# [Project : Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
+
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
