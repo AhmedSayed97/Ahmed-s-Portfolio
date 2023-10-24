@@ -124,7 +124,7 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * checked for duplicates (no duplicates founded).
 * modified some values in color column **dark_dray** to **dark_gray**.
 * created new columns **color edited** and **fuel edited** using **PROPER** function.
-* modified misspelled city names.
+* modified misspelled cities names.
 * deleted string **TL** from price column using **Find&Replace**, then edited the column's format to **Number** and renamed the column header.
 * exported the cleaned Data as a **xlsx** File.
 * used Tableau Public to make visualizations.
