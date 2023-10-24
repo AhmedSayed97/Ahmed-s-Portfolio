@@ -125,7 +125,7 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * modified some values in color column **dark_dray** to **dark_gray**.
 * created new columns **color edited** and **fuel edited** using **PROPER** function.
 * modified misspelled city names.
-* deleted string **TL** from price column, then edited the column's format to **Number** and renamed the column header.
+* deleted string **TL** from price column using **Find&Replace**, then edited the column's format to **Number** and renamed the column header.
 * exported the cleaned Data as a **xlsx** File.
 * used Tableau Public to make visualizations.
 * built 2 Dashboards.
