@@ -104,8 +104,31 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project : Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
+# [Project 9: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
+
+
+
+# [Project 10: Cars sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/online_car-sales.xlsx)
+
+I worked on this project to show my skills in data analysis using Excel and Tableau.
+
+* I got the data from kaggle's datasets, the dataset link **(https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen)**.
+* used Excel to clean the dataset.
+* inserted the dataset into a table.
+* deleted useless columns.
+* Removed missing values in some columns.
+* checked for duplicates (no duplicates founded).
+* modified some values in color column **dark_dray** to **dark_gray**.
+* created new columns **color edited** and **fuel edited** using **PROPER** function.
+* modified misspelled city names.
+* deleted string **TL** from price column, then edited the column's format to **Number** and renamed the column header.
+* exported the cleaned Data as a **xlsx** File.
+* used Tableau Public to make visualizations.
+* built 2 Dashboards.
+
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen)%20.png)
