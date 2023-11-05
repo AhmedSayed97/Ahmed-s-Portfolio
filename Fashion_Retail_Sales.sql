@@ -112,7 +112,7 @@ MIN([Purchase Amount (USD)]) As Minimum_of_sales
 From Fashion_Retail_Sales
 Group by [Item Purchased]
 
----find outliers (43 values founded)
+---find outliers
 
 Select [Item Purchased], [Purchase Amount (USD)],
 ([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
