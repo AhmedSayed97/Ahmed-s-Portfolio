@@ -66,83 +66,37 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 
 
 
-# [Project 5: Property sales:Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
-
-I worked on this project to show my skills in data analysis using SQL and Tableau.
-
-* I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data.
-* Exported the cleaned Data as a **CSV** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20(Melbourne%20City).png)
-
-
-
-# [Project 6: PC Games Sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/PC%20Games%20sales.sql)
+# [Project 5: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Egypt_Houses_Price.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
 * I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data.
-* Exported the cleaned Data as a **xlsx** File.
+* Imported dataset into **SQL Server** to clean and explore data. 
+* Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
-
-
-
-# [Project 7: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Egypt_Houses_Price.sql)
-
-I worked on this project to show my skills in data analysis using SQL Server and Tableau.
-
-* I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data. 
-* Exported the cleaned Data as a **xlsx** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
+**Dataset link: https://www.kaggle.com/datasets/ahmedsamirafattah/egypt-houses-price**
+  
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Houses%20prices%20in%20Egypt%20dashboard.png)
 
 
 
-# [Project 8: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Fashion_Retail_Sales.sql)
+# [Project 6: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Fashion_Retail_Sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
-Project parts:
-
-1- Data Cleaning: 
-* I used the select statement to explore the dataset
-* used SELECT statement, common table expression (CTE), window functions ( ROW NUMBER(), OVER(), PARTITION BY ), ORDER BY clause and WHERE clause to find any Duplicates ( No Duplicates founded).
-* used IS NULL syntax to find any missing values (some missing values founded in Purchase Amount (USD) and Review Rating columns)
-* Deleted the rows that contains missing values in Purchase Amount (USD) column.
-
-
-2- Data Exploration:
-* used SELECT TOP Clause, SUM(), AVG(), ROUND() functions. GROUP BY statement and ORDER BY clause to get the top 10 most sold items.
-* used SELECT statement and SUM() function to get the total sales.
-* used SELECT statement, GROUP BY statement, COUNT() function and ORDER BY clause to get the most used Payment method.
-* used SELECT statement, GROUP BY statement, COUNT() function and ORDER BY clause to get the quantities of each sold item.
-* used ALTER TABLE statement, UPDATE statement, DATEPART() function to extract year and month from the Date Purchase column and insert it into 2 new columns named year and month.
-* used SELECT TOP statement, GROUP BY statement, WHERE clause, ORDER BY clause and SUM() function to get the month in which the highest sales is achieved in 2023.
-* used SELECT statement, GROUP BY statement, AVG(), STDEV(), MAX(), MIN() functions to get summary statistics table for Purchased Amount (USD) column.
-* finally used SELECT statement, WHERE clause, OVER(), AVG(), STDEV() functions and subquery to find any outliers (43 rows of outliers founded)
-
-
-3- Data Visualization using Tableau Public.
-* exported the data from SQL Server as Excel sheet.
-* imported the Excel sheet in Tableau Public to visualize the data and create a dashboard.
-
+* I got the data from kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore data. 
+* Exported the cleaned Data as a **.xlsx** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
 **Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
 
 
 
-# [Project 9: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
+# [Project 7: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -151,7 +105,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 10: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Company%20Financials%20Dataset.ipynb)
+# [Project 8: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Company%20Financials%20Dataset.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -161,7 +115,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 11: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
+# [Project 9: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
