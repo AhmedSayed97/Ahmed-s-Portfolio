@@ -1,5 +1,11 @@
 # Data Analysis Portfolio
 
+-- skills: 🔎 Data analysis / cleaning skills using Excel / SQL / Python 
+📊 Data visualisation skills using Tableau.
+- **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
+- **Tableau Public profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
+
+
 
 # [Project 1: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/EPL_players_stats.xlsx)
 
