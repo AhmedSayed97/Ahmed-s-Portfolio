@@ -60,6 +60,7 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * exported the cleaned Data as a **xlsx** File.
 * used Tableau Public to make visualizations.
 * built 2 Dashboards.
+
 **dataset link: https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen**
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
@@ -76,6 +77,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
+
 **Dataset link: https://www.kaggle.com/datasets/ahmedsamirafattah/egypt-houses-price**
   
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Houses%20prices%20in%20Egypt%20dashboard.png)
@@ -91,6 +93,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
+
 **Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
