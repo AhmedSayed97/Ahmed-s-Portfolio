@@ -47,7 +47,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 I worked on this project to show my skills in data analysis using Excel and Tableau.
 
-* I got the data from kaggle's datasets, the dataset link **(https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen)**.
+* I got the data from kaggle's datasets.
 * used Excel to clean the dataset.
 * inserted the dataset into a table.
 * deleted useless columns.
@@ -60,6 +60,7 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * exported the cleaned Data as a **xlsx** File.
 * used Tableau Public to make visualizations.
 * built 2 Dashboards.
+**dataset link: https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen**
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen)%20.png)
