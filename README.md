@@ -43,76 +43,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-# [Project 4: Property sales:Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
-
-I worked on this project to show my skills in data analysis using SQL and Tableau.
-
-* I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data.
-* Exported the cleaned Data as a **CSV** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20(Melbourne%20City).png)
-
-
-
-# [Project 5: PC Games Sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/PC%20Games%20sales.sql)
-
-I worked on this project to show my skills in data analysis using SQL Server and Tableau.
-
-* I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data.
-* Exported the cleaned Data as a **xlsx** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
-
-
-
-# [Project 6: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Egypt_Houses_Price.sql)
-
-I worked on this project to show my skills in data analysis using SQL Server and Tableau.
-
-* I got the data from kaggle's datasets.
-* Imported dataset into **SSMS** to clean and explore data. 
-* Exported the cleaned Data as a **xlsx** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Houses%20prices%20in%20Egypt%20dashboard.png)
-
-
-
-# [Project 7: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
-
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
-
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/e89tVzo.jpg)
-
-
-
-
-# [Project 8: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Company%20Financials%20Dataset.ipynb)
-
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
-
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
-
-
-
-
-
-# [Project 9: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
-
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
-
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
-
-
-
-# [Project 10: Cars sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/online_car-sales.xlsx)
+# [Project 4: Cars sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/online_car-sales.xlsx)
 
 I worked on this project to show my skills in data analysis using Excel and Tableau.
 
@@ -135,7 +66,49 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 
 
 
-# [Project 11: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Fashion_Retail_Sales.sql)
+# [Project 5: Property sales:Melbourne City](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Property%20sales%20(Melbourne%20City).sql)
+
+I worked on this project to show my skills in data analysis using SQL and Tableau.
+
+* I got the data from kaggle's datasets.
+* Imported dataset into **SSMS** to clean and explore data.
+* Exported the cleaned Data as a **CSV** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Property%20sales%20(Melbourne%20City).png)
+
+
+
+# [Project 6: PC Games Sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/PC%20Games%20sales.sql)
+
+I worked on this project to show my skills in data analysis using SQL Server and Tableau.
+
+* I got the data from kaggle's datasets.
+* Imported dataset into **SSMS** to clean and explore data.
+* Exported the cleaned Data as a **xlsx** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales.png)
+
+
+
+# [Project 7: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Egypt_Houses_Price.sql)
+
+I worked on this project to show my skills in data analysis using SQL Server and Tableau.
+
+* I got the data from kaggle's datasets.
+* Imported dataset into **SSMS** to clean and explore data. 
+* Exported the cleaned Data as a **xlsx** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Houses%20prices%20in%20Egypt%20dashboard.png)
+
+
+
+# [Project 8: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Fashion_Retail_Sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -166,3 +139,38 @@ Project parts:
 **Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
+
+
+
+# [Project 9: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
+
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/e89tVzo.jpg)
+
+
+
+
+# [Project 10: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Company%20Financials%20Dataset.ipynb)
+
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
+
+
+
+
+
+# [Project 11: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/Sales%20data%20analysis.ipynb)
+
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+
+## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
+
+
+
+
+
+
+
+
