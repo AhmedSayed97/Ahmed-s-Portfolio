@@ -49,12 +49,12 @@ Set Series = COALESCE(Series, 'Not Available')
 Update Games
 Set Sales = Sales*1000000
 
----The largest Sales
+---The maximum of of Sales
 
 Select MAX(Sales) As largest_sales From Games
 
 
----The smallest Sales
+---The minimum of Sales
 
 Select MIN(Sales) As smallest_sales From Games
 
