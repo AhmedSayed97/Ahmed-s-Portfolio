@@ -130,8 +130,8 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * used Tableau Public to make visualizations.
 * built 2 Dashboards.
 
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen)%20.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen)%20.png)
 
 
 
@@ -165,4 +165,4 @@ Project parts:
 
 **Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
-## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
