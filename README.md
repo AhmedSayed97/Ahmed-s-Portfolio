@@ -1,7 +1,8 @@
 # Data Analysis Portfolio
 
-- skills: 🔎 Data analysis / cleaning skills using Excel / SQL / Python 
-📊 Data visualisation skills using Tableau.
+- skills:
+- 🔎 Data analysis / cleaning skills using Excel / SQL / Python 
+- 📊 Data visualisation skills using Tableau.
 - **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
 - **Tableau Public profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
 
