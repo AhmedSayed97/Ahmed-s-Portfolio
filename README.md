@@ -5,8 +5,8 @@
 - Data visualisation skills using Tableau 📊
 
   
-- **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
-- **Tableau Public profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
+ **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
+ **Tableau Public profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
 
 
 
