@@ -163,6 +163,6 @@ Project parts:
 * exported the data from SQL Server as Excel sheet.
 * imported the Excel sheet in Tableau Public to visualize the data and create a dashboard.
 
-**Dataset link: https://lnkd.in/d-bCtBhJ**
+**Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Fashion%20retail%20sales%20dashboard.png)
