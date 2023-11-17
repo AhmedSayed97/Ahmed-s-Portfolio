@@ -51,7 +51,7 @@ Data Exploration
 
 Select * From Fashion_Retail_Sales
 
----Top 10 most sold items
+---Top 10 best-selling items
 
 Select Top 10([Item Purchased]), SUM([Purchase Amount (USD)]) as Total_sales_in_USD, Round(AVG([Review Rating]),2) As Review_rating
 From Fashion_Retail_Sales
@@ -94,7 +94,7 @@ Update Fashion_Retail_Sales
 Set year = DATEPART(year, [Date Purchase])
 
 
----In which month in 2023 the highest Sales is?( May is the month with the highest Purchase amount)
+---which month in 2023 has the highest Sales?( May )
 
 Select Top 1 (month), SUM([Purchase Amount (USD)]) As Total_sales
 From Fashion_Retail_Sales
