@@ -72,7 +72,7 @@ I worked on this project to show my skills in data cleaning using Excel .
 
 
 
-# [Project 5: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
+# [Project 5: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Property%20sales%20(Melbourne%20City).sql)
 
 I worked on this project to show my skills in data cleaning using SQL Server.
 
