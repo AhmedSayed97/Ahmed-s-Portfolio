@@ -53,9 +53,9 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-# [Project 4: Online Automotive Sales(volkswagen)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
+# [Project 4:Data Cleaning: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 
-I worked on this project to show my skills in data analysis using Excel and Tableau.
+I worked on this project to show my skills in data cleaning using Excel .
 
 * I got the data from kaggle's datasets.
 * used Excel to clean the dataset.
@@ -67,14 +67,9 @@ I worked on this project to show my skills in data analysis using Excel and Tabl
 * created new columns **color edited** and **fuel edited** using **PROPER** function.
 * modified misspelled cities names.
 * deleted string **TL** from price column using **Find&Replace**, then edited the column's format to **Number** and renamed the column header.
-* exported the cleaned Data as a **xlsx** File.
-* used Tableau Public to make visualizations.
-* built 2 Dashboards.
 
 **dataset link: https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen**
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen).png)
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20Automotive%20sales%20in%20Turkey%202023%20(Volkswagen)%20.png)
 
 
 
