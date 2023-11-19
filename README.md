@@ -72,7 +72,6 @@ I worked on this project to show my skills in data cleaning using Excel .
 
 
 
-
 # [Project 5: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
