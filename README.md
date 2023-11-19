@@ -72,7 +72,17 @@ I worked on this project to show my skills in data cleaning using Excel .
 
 
 
-# [Project 5: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
+# [Project 5: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
+
+I worked on this project to show my skills in data cleaning using SQL Server.
+
+* I got the data from kaggle's datasets.
+* Imported dataset into **SQL Server** to clean the data. 
+
+
+
+
+# [Project 6: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -88,7 +98,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 6: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Egypt_Houses_Price.sql)
+# [Project 7: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Egypt_Houses_Price.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -104,7 +114,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 7: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
+# [Project 8: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -120,7 +130,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 8: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
+# [Project 9: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -129,7 +139,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 9: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Company%20Financials%20Dataset.ipynb)
+# [Project 10: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Company%20Financials%20Dataset.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -139,7 +149,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 10: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Sales%20data%20analysis.ipynb)
+# [Project 11: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Sales%20data%20analysis.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
