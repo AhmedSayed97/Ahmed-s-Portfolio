@@ -14,7 +14,7 @@ Select [Purchase Amount (USD)] From Fashion_Retail_Sales
 
 
 
---- check duplicates (no duplicates founded)
+--- check for duplicates (no duplicates founded)
 
 
 With RowNumCTE As(
@@ -32,7 +32,7 @@ Select * From RowNumCTE
 where row_num > 1
 
 
----check missing values (some missing values founded)
+---check for missing values (some missing values founded)
 
 Select * From Fashion_Retail_Sales
 Where [Purchase Amount (USD)] Is Null
@@ -112,7 +112,7 @@ MIN([Purchase Amount (USD)]) As Minimum_of_sales
 From Fashion_Retail_Sales
 Group by [Item Purchased]
 
----find outliers
+---check for outliers
 
 Select [Item Purchased], [Purchase Amount (USD)],
 ([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
