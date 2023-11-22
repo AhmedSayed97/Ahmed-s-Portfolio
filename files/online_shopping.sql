@@ -109,7 +109,7 @@ Select Location, Count(Location) As Orders_count From online_shopping_dataset
 Group By Location
 Order By Orders_count Desc
 
----count of orders per product_subcategory. (Apparel is the most orderd category)
+---count of orders per product_category. (Apparel is the most orderd category)
 
 Select Product_Category, COUNT(Product_Category) As orders_count From online_shopping_dataset
 Group By Product_Category
