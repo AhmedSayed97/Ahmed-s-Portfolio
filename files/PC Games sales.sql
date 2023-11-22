@@ -19,7 +19,7 @@ Alter Table Games
 Drop Column Release
 
 
----looking for Duplicates (No Duplicates Where found)
+---look for Duplicates (No Duplicates Where found)
 
 With RowNumCTE As(
 Select *, ROW_NUMBER() Over(
@@ -37,14 +37,14 @@ Where row_num > 1
 Order By row_num
 
 
----Dealing with Null values [filling missing values with a text (Not available)]
+---Deal with Null values [filling missing values with a text (Not available)]
 
 Select Name, Series, COALESCE(Series, 'Not Available') Series_edited From Games
 
 Update Games
 Set Series = COALESCE(Series, 'Not Available')
 
----modifying Sales Column (Sales of the game in Millions)
+---modify Sales Column (Sales of the game in Millions)
 
 Update Games
 Set Sales = Sales*1000000
