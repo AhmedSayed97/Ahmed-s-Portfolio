@@ -12,7 +12,7 @@ Add Sale_Date Date
 Update ['Property Sales of Melbourne City']
 Set Sale_Date = CONVERT(Date, Date)
 
----changing data in Type Column from 'h', 't' and 'u' to 'house', 'town house' and 'unit'
+---change data in Type Column from 'h', 't' and 'u' to 'house', 'town house' and 'unit'
 
 Select Type,
 Case
@@ -30,7 +30,7 @@ Set Type = Case
 	End
 
 
----changing the data in Method column From 'S','SP','PI','PN','SN','VB','W' and 'SA' to 'property sold','property sold prior','property passed in','sold prior not disclosed','sold not disclosed','vendor bid','withdrawn prior to auction' and 'sold after auction'
+---change the data in Method column From 'S','SP','PI','PN','SN','VB','W' and 'SA' to 'property sold','property sold prior','property passed in','sold prior not disclosed','sold not disclosed','vendor bid','withdrawn prior to auction' and 'sold after auction'
 
 Select Method,
 Case
@@ -58,7 +58,7 @@ Set Method = Case
 	End
 
 
----deleting unused columns
+---delete unused columns
 
 Select * From ['Property Sales of Melbourne City']
 
@@ -67,7 +67,7 @@ Drop Column Date, Lattitude, Longtitude, CouncilArea, YearBuilt, Column1, Proper
 
 
 
----check if there are duplicates
+---check for duplicates
 
 With RowNumCTE As(
 Select *,
@@ -88,7 +88,7 @@ Where row_num > 1
 ORDER BY Suburb
 
 
----deleting duplicates
+---delete duplicates
 
 With RowNumCTE As(
 Select *,
@@ -108,13 +108,13 @@ Delete From RowNumCTE
 Where row_num > 1
 
 
----dealing with missing data
+---check for missing data
 
 Select * From ['Property Sales of Melbourne City']
 Where Bedroom IS NULL And Bathroom IS NULL And Car IS NULL And Landsize IS NULL And BuildingArea IS NULL 
 
 
----filling the missing data with 0
+---fill the missing data with 0
 
 Update ['Property Sales of Melbourne City']
 Set Bedroom = ISNULL(Bedroom, 0), Bathroom = ISNULL(Bathroom, 0), Car = ISNULL(Car, 0),
