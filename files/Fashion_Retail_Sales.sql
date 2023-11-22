@@ -103,7 +103,7 @@ Group by month
 Order by Total_sales Desc
 
 
----summary statistics table for Purchase Amount column
+---summary statistics table
 
 Select [Item Purchased] ,AVG([Purchase Amount (USD)]) As Average_of_sales,
 STDEV([Purchase Amount (USD)]) As Standard_deviation_of_sales,
