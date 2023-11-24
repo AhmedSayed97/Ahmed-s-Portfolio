@@ -11,7 +11,7 @@
 
 
 
-# [Project 1: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/EPL_players_stats.xlsx)
+# [Excel project: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/EPL_players_stats.xlsx)
 
 I worked on this project to show my skills in data analysis using Excel.
 
@@ -25,7 +25,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-# [Project 2: Bike buyers](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/bike_buyers.xlsx)
+# [Excel project: Bike buyers](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/bike_buyers.xlsx)
 
 I worked on this project to show my skills in data analysis using Excel.
 
@@ -40,7 +40,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-# [Project 3: Supermarket sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/supermarket_sales.xlsx)
+# [Excel project: Supermarket sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/supermarket_sales.xlsx)
 
 I worked on this project to show my skills in data analysis using Excel.
 
@@ -53,7 +53,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-# [Project 4: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
+# [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 
 I worked on this project to show my skills in data cleaning using Excel .
 
@@ -72,7 +72,7 @@ I worked on this project to show my skills in data cleaning using Excel .
 
 
 
-# [Project 5: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Property%20sales%20(Melbourne%20City).sql)
+# [SQL project: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Property%20sales%20(Melbourne%20City).sql)
 
 I worked on this project to show my skills in data cleaning using SQL Server.
 
@@ -82,7 +82,7 @@ I worked on this project to show my skills in data cleaning using SQL Server.
 
 
 
-# [Project 6: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
+# [SQL project: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -98,7 +98,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 7: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Egypt_Houses_Price.sql)
+# [SQL project: Houses prices in Egypt](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Egypt_Houses_Price.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -114,7 +114,24 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 8: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
+# [SQL project: Online shopping](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_shopping.sql)
+
+I worked on this project to show my skills in data analysis using SQL Server and Tableau.
+
+* I got the data from kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore data. 
+* Exported the cleaned Data as a **.xlsx** File.
+* Used Tableau Public to make visualizations.
+* Built a Dashboard.
+
+**Dataset link: https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset**
+
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20shopping%20dashboard%201.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Dashboard%202.png)
+
+
+
+# [SQL project: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
@@ -130,7 +147,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 
 
-# [Project 9: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
+# [Python project: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -139,7 +156,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 10: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Company%20Financials%20Dataset.ipynb)
+# [Python project: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Company%20Financials%20Dataset.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
@@ -149,7 +166,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 
 
-# [Project 11: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Sales%20data%20analysis.ipynb)
+# [Python project: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Sales%20data%20analysis.ipynb)
 
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
 
