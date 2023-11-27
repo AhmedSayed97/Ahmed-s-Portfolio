@@ -8,17 +8,17 @@ Select * From online_shopping_dataset
 
 Select CustomerID From online_shopping_dataset
 
---- check for missing values (31 rows contain missing values)
+--- Check for missing values (31 rows contain missing values)
 
 Select * From online_shopping_dataset
 Where CustomerID IS NULL
 
----delete rows contain missing values
+---delete rows containing missing values
 
 Delete From online_shopping_dataset
 Where CustomerID IS NULL
 
---- check again for missing values
+--- Check again for missing values
 
 Select * From online_shopping_dataset
 Where Gender IS NULL or Location IS NULL or Tenure_Months IS NULL or Transaction_Date IS NULL or Transaction_ID IS NULL or Product_Category IS NULL
@@ -30,7 +30,7 @@ or Discount_pct IS NULL or Offline_Spend IS NULL or Online_Spend IS NULL or Mont
 Delete From online_shopping_dataset
 Where Discount_pct IS NULL
 
----check for duplicates (no duplicates founded)
+---check for duplicates (no duplicates found)
 
 With RowNumCTE As(
 Select *,
@@ -62,7 +62,7 @@ Set Total_spend = Offline_Spend + Online_Spend
 
 Select * From online_shopping_dataset
 
----change data in gender column from M and F to Male and Female
+---change data in the gender column from M and F to Male and Female
 
 Update online_shopping_dataset
 Set Gender = 'Male'
@@ -99,23 +99,23 @@ Select Gender, Count(Gender) As Gender_count From online_shopping_dataset
 Group by Gender
 Order by Gender_count Desc
 
----how many unique locations we have? (5 distinct locations)
+---how many unique locations do we have? (5 distinct locations)
 
 Select Distinct(Location) From online_shopping_dataset
 
----count of orders per location. (the most number of orders were in chicago)
+---count of orders per location. (the most number of orders were in Chicago)
 
 Select Location, Count(Location) As Orders_count From online_shopping_dataset
 Group By Location
 Order By Orders_count Desc
 
----count of orders per product_category. (Apparel is the most orderd category)
+---count of orders per product_category. (Apparel is the most ordered category)
 
 Select Product_Category, COUNT(Product_Category) As orders_count From online_shopping_dataset
 Group By Product_Category
 Order By orders_count Desc
 
----what is the total number of quantities orderd? (236,367)
+---what is the total number of quantities ordered? (236,367)
 
 Select SUM(Quantity) As total_num_of_orderd_quantities From online_shopping_dataset
 
