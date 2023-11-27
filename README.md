@@ -1,8 +1,8 @@
 # Data Analysis Portfolio
 
-**skills:**
-- Data analysis / cleaning skills using Excel / SQL / Python 🔎
-- Data visualisation skills using Tableau 📊
+**Skills:**
+- Data analysis/cleaning skills using Excel / SQL / Python 🔎
+- Data visualization skills using Tableau 📊
   
   **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
 
@@ -15,10 +15,10 @@
 
 I worked on this project to show my skills in data analysis using Excel.
 
-* I got the data from kaggle's datasets.
-* Started the project by cleaning the data (checked if there are any duplicate values or missing values) no duplicates or missing values were found.
-* Cleaned the data in the player column by removing unwanted characters and inserting the players names correctly using **Find&Replace**.
-* Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
+* I got the data from Kaggle's datasets.
+* Started the project by cleaning the data (checked if there were any duplicate values or missing values) no duplicates or missing values were found.
+* Cleaned the data in the player column by removing unwanted characters and inserting the player's names correctly using **Find&Replace**.
+* Inserted the data into pivot tables, then inserted **pivot charts** to visualize the data.
 * Inserted **pivotcharts** into a Dashboard.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/EPL.png)
@@ -29,11 +29,11 @@ I worked on this project to show my skills in data analysis using Excel.
 
 I worked on this project to show my skills in data analysis using Excel.
 
-* I got the data from kaggle's datasets.
+* I got the data from Kaggle's datasets.
 * Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, no missing values were found.
 * Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** column From **M** and **S** to **Married** and **Single** using **Find&Replace**.
 * Added a column **Age Category** using **IF** function.
-* Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
+* Inserted the data into pivot tables, then inserted **pivot charts** to visualize the data.
 * Inserted **pivotcharts** into a Dashboard.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Bike%20buyers.png)
@@ -44,9 +44,9 @@ I worked on this project to show my skills in data analysis using Excel.
 
 I worked on this project to show my skills in data analysis using Excel.
 
-* I got the data from kaggle's datasets.
-* Started the project by cleaning the data (checked if there are any duplicate values or missing values) no duplicates or missing values were found.
-* Inserted the data into pivot tables, then inserted **pivotcharts** to visualize the data.
+* I got the data from Kaggle's datasets.
+* Started the project by cleaning the data (checked if there were any duplicate values or missing values) no duplicates or missing values were found.
+* Inserted the data into pivot tables, then inserted **pivot charts** to visualize the data.
 * Inserted **pivotcharts** into a Dashboard.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-19.png)
@@ -55,17 +55,17 @@ I worked on this project to show my skills in data analysis using Excel.
 
 # [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 
-I worked on this project to show my skills in data cleaning using Excel .
+I worked on this project to show my skills in data cleaning using Excel.
 
-* I got the data from kaggle's datasets.
+* I got the data from Kaggle's datasets.
 * used Excel to clean the dataset.
 * inserted the dataset into a table.
 * deleted useless columns.
 * Removed missing values in some columns.
-* checked for duplicates (no duplicates founded).
+* checked for duplicates (no duplicates found).
 * modified some values in color column **dark_dray** to **dark_gray**.
 * created new columns **color edited** and **fuel edited** using **PROPER** function.
-* modified misspelled cities names.
+* modified misspelled city names.
 * deleted string **TL** from price column using **Find&Replace**, then edited the column's format to **Number** and renamed the column header.
 
 **dataset link: https://www.kaggle.com/datasets/bimervos/online-automotive-sales-statistics-volkswagen**
@@ -76,7 +76,7 @@ I worked on this project to show my skills in data cleaning using Excel .
 
 I worked on this project to show my skills in data cleaning using SQL Server.
 
-* I got the data from kaggle's datasets.
+* I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean the data. 
 
 
@@ -86,8 +86,8 @@ I worked on this project to show my skills in data cleaning using SQL Server.
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
-* I got the data from kaggle's datasets.
-* Imported dataset into **SQL Server** to clean and explore data. 
+* I got the data from Kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
@@ -102,8 +102,8 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
-* I got the data from kaggle's datasets.
-* Imported dataset into **SQL Server** to clean and explore data. 
+* I got the data from Kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore the data.
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
@@ -118,8 +118,8 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
-* I got the data from kaggle's datasets.
-* Imported dataset into **SQL Server** to clean and explore data. 
+* I got the data from Kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
@@ -135,8 +135,8 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
-* I got the data from kaggle's datasets.
-* Imported dataset into **SQL Server** to clean and explore data. 
+* I got the data from Kaggle's datasets.
+* Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
 * Used Tableau Public to make visualizations.
 * Built a Dashboard.
@@ -149,7 +149,7 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 # [Python project: Top 100 US companies by Revenue in 2022](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Top%20100%20US%20companies%20by%20Revenue%20in%202022.ipynb)
 
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib, and Seaborn libraries.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/e89tVzo.jpg)
 
@@ -158,7 +158,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 # [Python project: Company Financials](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Company%20Financials%20Dataset.ipynb)
 
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib, and Seaborn libraries.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
 
@@ -168,7 +168,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 
 # [Python project: Sales analysis](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Sales%20data%20analysis.ipynb)
 
-I worked on this project to show my skills in data analysis using Pandas, Matplotlib and Seaborn libraries.
+I worked on this project to show my skills in data analysis using Pandas, Matplotlib, and Seaborn libraries.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
 
