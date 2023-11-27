@@ -13,12 +13,12 @@ Select Type, Price, Bedrooms, Bathrooms, Area From Egypt_Houses_Price
 Select * From Egypt_Houses_Price
 Where Type Is Null Or Price Is Null Or Bedrooms Is Null Or Bathrooms Is Null Or Area Is Null
 
--- delete rows with null values in any of Type, Price, Bedrooms, Bathroomsor or Area columns
+-- Delete rows with null values in any of Type, Price, Bedrooms, Bathrooms or Area columns
 
 Delete From Egypt_Houses_Price
 Where Type Is Null Or Price Is Null Or Bedrooms Is Null Or Bathrooms Is Null Or Area Is Null
 
---get the unique values of type col
+--get the unique values of the type column
 
 Select Distinct(Type) From Egypt_Houses_Price
 
@@ -28,19 +28,19 @@ Update Egypt_Houses_Price
 Set Type = 'Standalone Villa'
 Where Type = 'Stand Alone Villa'
 
---get the unique values of type col
+--get the unique values of the type column
 
 Select Distinct(City) From Egypt_Houses_Price
 
 Select * From Egypt_Houses_Price
 Where City = '(View phone number)'
 
--- delete rows where city column has (View phone number) value
+-- delete rows where the city column has (View phone number) value
 
 Delete From Egypt_Houses_Price
 Where City = '(View phone number)'
 
---check For duplicates and delete them
+--Check for duplicates and delete them
 
 With RowNumCTE As(
 Select *, 
@@ -72,7 +72,7 @@ Delete From Egypt_Houses_Price
 Where Delivery_Date = 'Unknown' Or Delivery_Term = 'Unknown' Or Furnished = 'Unknown'
 /* 
 
-Exploring data with SQL quereis
+Exploring data with SQL queries
 
 */
 
@@ -84,7 +84,7 @@ Select Type, ROUND(AVG(Price),2) As AVG_Price From Egypt_Houses_Price
 Group By Type
 Order By AVG_Price Desc
 
---Summery Statistics for Price Column
+--Summary Statistics for Price Column
 
 Select ROUND(AVG(Price),2) As AVG_Price,
        MAX(Price) As Maximum_Price,
@@ -92,7 +92,7 @@ Select ROUND(AVG(Price),2) As AVG_Price,
 	   ROUND(STDEV(Price),2) As Stand_Dev_Of_Price
 From Egypt_Houses_Price
 
---Summery Statistics for Area Column
+--Summary Statistics for Area Column
 
 Select ROUND(AVG(Area),2) As AVG_Area,
        MAX(Area) As Maximum_Area,
@@ -100,14 +100,14 @@ Select ROUND(AVG(Area),2) As AVG_Area,
 	   ROUND(STDEV(Area),2) As Stand_Dev_Of_Area
 From Egypt_Houses_Price
 
---What is the most Common payment option? (Cash or Installment)
+--What is the most common payment option? (Cash or Installment)
 
 Select Payment_Option, COUNT(Payment_Option) As Counter
 From Egypt_Houses_Price
 Group By Payment_Option
 Order By Counter Desc
 
---What is the most Common Delivery_term? (Finshed)
+--What is the most common Delivery_term? (Finished)
 
 Select Delivery_Term, COUNT(Delivery_Term) As Counter
 From Egypt_Houses_Price
