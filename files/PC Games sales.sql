@@ -19,7 +19,7 @@ Alter Table Games
 Drop Column Release
 
 
----look for Duplicates (No Duplicates Where found)
+---look for Duplicates (No Duplicates Were found)
 
 With RowNumCTE As(
 Select *, ROW_NUMBER() Over(
@@ -66,7 +66,7 @@ Select AVG(Sales) As AVG_OF_Sales From Games
 
 Select SUM(Sales) As Sum_of_Sales From Games 
 
----The most Popular genre? (Real-time strategy)
+---The most popular genre? (Real-time strategy)
 
 Select Genre, COUNT(Genre) AS Genres_Count From Games
 Group By Genre
