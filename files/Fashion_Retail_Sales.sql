@@ -14,7 +14,7 @@ Select [Purchase Amount (USD)] From Fashion_Retail_Sales
 
 
 
---- check for duplicates (no duplicates founded)
+--- check for duplicates (no duplicates found)
 
 
 With RowNumCTE As(
@@ -32,12 +32,12 @@ Select * From RowNumCTE
 where row_num > 1
 
 
----check for missing values (some missing values founded)
+---check for missing values (some missing values found)
 
 Select * From Fashion_Retail_Sales
 Where [Purchase Amount (USD)] Is Null
 
----delete rows with missing values in purchase amount column
+---delete rows with missing values in the purchase amount column
 
 Delete From Fashion_Retail_Sales
 Where [Purchase Amount (USD)] Is Null
@@ -81,7 +81,7 @@ From Fashion_Retail_Sales
 Group by [Payment Method]
 Order by Payment_Method_Counter Desc
 
----quantities of the sold items
+---the Total number number of the sold quantities
 
 Select [Item Purchased], COUNT([Item Purchased]) as Quantities
 From Fashion_Retail_Sales
@@ -89,7 +89,7 @@ Group by [Item Purchased]
 Order by Quantities Desc
 
 
----Adding new colums
+---Adding new columns 
 
 Alter Table Fashion_Retail_Sales
 Add year int
