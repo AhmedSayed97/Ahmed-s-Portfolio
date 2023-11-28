@@ -69,7 +69,7 @@ From Fashion_Retail_Sales
 Group by [Item Purchased]
 Order by Total_sales_in_USD Desc
 
----Total sales in USD
+---The total sales is $430,952.
 
 Select SUM([Purchase Amount (USD)]) as Total_sales From Fashion_Retail_Sales
 
