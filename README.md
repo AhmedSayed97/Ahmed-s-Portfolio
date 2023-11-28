@@ -192,11 +192,11 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 I worked on this project to show my skills in data analysis using Pandas, Matplotlib, and Seaborn libraries.
 
 **Insights derived from this project:**
-1. Government is the most profitable Segment **$10,270,950.18**.
-2. France has the highest number of profits **$3,342,749.54**.
+1. **Government** is the most profitable **Segment** **$10,270,950.18**.
+2. **France** has the highest number of profits **$3,342,749.54**.
 3. **Low** discount band has the highest number of profits **$6,188,857.71**
-4. The highest number of profits is in October month **$3,551,346.52**
-5. The highest number of profits is in year 2014 **$12,191,009.53**.
+4. The highest number of profits is in **October** month **$3,551,346.52**
+5. The highest number of profits is in the year **2014** **$12,191,009.53**.
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/how-to-forecast-balance-sheet-and-income-statement.webp)
 
 
