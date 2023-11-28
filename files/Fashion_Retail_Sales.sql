@@ -81,7 +81,7 @@ From Fashion_Retail_Sales
 Group by [Payment Method]
 Order by Payment_Method_Counter Desc
 
----the Total number number of the sold quantities
+--- the total number of sold quantities
 
 Select [Item Purchased], COUNT([Item Purchased]) as Quantities
 From Fashion_Retail_Sales
@@ -105,7 +105,7 @@ Update Fashion_Retail_Sales
 Set year = DATEPART(year, [Date Purchase])
 
 
----which month in 2023 has the highest Sales?( May )
+---which month in 2023 has the highest Sales? ( May )
 
 Select Top 1 (month), SUM([Purchase Amount (USD)]) As Total_sales
 From Fashion_Retail_Sales
