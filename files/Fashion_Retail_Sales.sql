@@ -81,13 +81,6 @@ From Fashion_Retail_Sales
 Group by [Payment Method]
 Order by Payment_Method_Counter Desc
 
---- the total number of sold quantities
-
-Select [Item Purchased], COUNT([Item Purchased]) as Quantities
-From Fashion_Retail_Sales
-Group by [Item Purchased]
-Order by Quantities Desc
-
 
 ---Adding new columns 
 
