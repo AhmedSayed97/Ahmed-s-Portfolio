@@ -30,8 +30,8 @@ I worked on this project to show my skills in data analysis using Excel.
 6. **Gabriel** and **Antonio Rüdiger** are the **best goal scorers** in the **defender** position with **5** goals.
 7. **James Maddison** is the **best goal scorer** in the **midfielder** position with **18** goals.
 
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28.png)
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28%20(1).png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28%20(5).png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28%20(6).png)
 
 
 
