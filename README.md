@@ -23,7 +23,7 @@ I worked on this project to show my skills in data analysis using Excel.
 
 Insights derived from this project:
 1. Mohamed Salah is the best goal scorer with 31 Goals in all competitions.
-2. Antonio Rüdiger has the most appearances with 54 matches in all competitions.
+2. Antonio Rüdiger has the most appearances with 54 appearances in all competitions.
 3. Jorginho is the best penalty taker with 9 goals in all competitions.
 4. Conor Gallagher, James Tarkowski, and Antonio Rüdiger are the players with the most yellow cards in all competitions, all of them got 12 yellow cards.
 5. Raul Jimenez, Aaron Cresswell, Granit Xhaxa, and Ezri Konsa are the players with the most red cards in all competitions, all of them got 2 red cards.
@@ -40,7 +40,7 @@ Insights derived from this project:
 I worked on this project to show my skills in data analysis using Excel.
 
 * I got the data from Kaggle's datasets.
-* Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, no missing values were found.
+* Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, and no missing values were found.
 * Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** column From **M** and **S** to **Married** and **Single** using **Find&Replace**.
 * Added a column **Age Category** using **IF** function.
 * Inserted the data into pivot tables, then inserted **pivot charts** to visualize the data.
