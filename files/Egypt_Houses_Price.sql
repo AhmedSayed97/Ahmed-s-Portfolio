@@ -100,7 +100,7 @@ Select ROUND(AVG(Area),2) As AVG_Area,
 	   ROUND(STDEV(Area),2) As Stand_Dev_Of_Area
 From Egypt_Houses_Price
 
---What is the most common payment option? (Cash or Installment)
+--What is the most common payment option? (Cash and Installment)
 
 Select Payment_Option, COUNT(Payment_Option) As Counter
 From Egypt_Houses_Price
