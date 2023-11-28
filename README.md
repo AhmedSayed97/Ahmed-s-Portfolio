@@ -213,7 +213,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 3. The most profitable product is **Macbook Pro Laptop** **$8,032,500**.
 4. The highest number of sales is in **San Francisco**.
 5. The hour with the highest number of sales is: 19 or 7 PM
-6. **December** is the month with the highest number of sales.
+6. **December** is the month with the highest number of sales **$4,608,296**.
 
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Untitled.jpg)
