@@ -42,7 +42,18 @@ Where [Purchase Amount (USD)] Is Null
 Delete From Fashion_Retail_Sales
 Where [Purchase Amount (USD)] Is Null
 
+---check for outliers
 
+Select [Item Purchased], [Purchase Amount (USD)],
+([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
+From Fashion_Retail_Sales
+
+
+Select * From
+(Select [Item Purchased], [Purchase Amount (USD)],
+([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
+From Fashion_Retail_Sales) as zscore_table
+Where Zscore>3 or Zscore<-3
 ----------------------------------------------------------------------------------------
 
 /*
@@ -112,15 +123,3 @@ MIN([Purchase Amount (USD)]) As Minimum_of_sales
 From Fashion_Retail_Sales
 Group by [Item Purchased]
 
----check for outliers
-
-Select [Item Purchased], [Purchase Amount (USD)],
-([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
-From Fashion_Retail_Sales
-
-
-Select * From
-(Select [Item Purchased], [Purchase Amount (USD)],
-([Purchase Amount (USD)] - AVG([Purchase Amount (USD)]) OVER())/STDEV([Purchase Amount (USD)]) OVER() As Zscore
-From Fashion_Retail_Sales) as zscore_table
-Where Zscore>3 or Zscore<-3
