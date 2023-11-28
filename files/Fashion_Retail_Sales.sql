@@ -98,7 +98,7 @@ Update Fashion_Retail_Sales
 Set year = DATEPART(year, [Date Purchase])
 
 
----which month in 2023 has the highest Sales? ( May )
+---which month in 2023 has the most Sales? ( May )
 
 Select Top 1 (month), SUM([Purchase Amount (USD)]) As Total_sales
 From Fashion_Retail_Sales
