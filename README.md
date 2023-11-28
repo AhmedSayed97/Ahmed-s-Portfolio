@@ -22,13 +22,13 @@ I worked on this project to show my skills in data analysis using Excel.
 * Inserted **pivotcharts** into a Dashboard.
 
 **Insights derived from this project:**
-1. Mohamed Salah is the best goal scorer with 31 Goals in all competitions.
-2. Antonio Rüdiger has the most appearances with 54 appearances in all competitions.
-3. Jorginho is the best penalty taker with 9 goals in all competitions.
-4. Conor Gallagher, James Tarkowski, and Antonio Rüdiger are the players with the most yellow cards in all competitions, all of them got 12 yellow cards.
-5. Raul Jimenez, Aaron Cresswell, Granit Xhaxa, and Ezri Konsa are the players with the most red cards in all competitions, all of them got 2 red cards.
-6. Gabriel and Antonio Rüdiger are the best goal scorers in the defender position with 5 goals.
-7. James Maddison is the best goal scorer in the midfielder position with 18 goals.
+1. **Mohamed Salah** is the best goal scorer with **31 Goals**.
+2. **Antonio Rüdiger** has the most appearances with **54 appearances**.
+3. **Jorginho** is the **best penalty taker** with **9 goals**.
+4. **Conor Gallagher**, **James Tarkowski**, and **Antonio Rüdiger** are the players with the most **yellow cards**, all of them got **12** yellow cards.
+5. **Raul Jimenez**, **Aaron Cresswell**, **Granit Xhaxa**, and **Ezri Konsa** are the players with the most **red cards**, all of them got *2* red cards.
+6. **Gabriel** and **Antonio Rüdiger** are the **best goal scorers** in the **defender** position with **5** goals.
+7. **James Maddison** is the **best goal scorer** in the **midfielder** position with **18** goals.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28.png)
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/2023-11-28%20(1).png)
