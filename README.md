@@ -86,6 +86,8 @@ I worked on this project to show my skills in data cleaning using Excel.
 
 I worked on this project to show my skills in data cleaning using SQL Server.
 
+In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Update** statement,and **Case** Expression.	
+
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean the data. 
 
@@ -95,6 +97,8 @@ I worked on this project to show my skills in data cleaning using SQL Server.
 # [SQL project: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
+
+In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
 
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
@@ -123,6 +127,8 @@ I worked on this project to show my skills in data analysis using SQL Server and
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
 
+In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **Round** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
+
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
@@ -150,6 +156,8 @@ I worked on this project to show my skills in data analysis using SQL Server and
 # [SQL project: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
 
 I worked on this project to show my skills in data analysis using SQL Server and Tableau.
+
+In this project, I used **select** statement, **Select Top** statement **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Subquery**, and **Update** statement.	
 
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
