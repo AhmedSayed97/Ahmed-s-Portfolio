@@ -123,35 +123,6 @@ In this project, I used **select** statement, **where** clause, **Common table e
 
 
 
-# [SQL project: Online shopping](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_shopping.sql)
-
-I worked on this project to show my skills in data analysis using SQL Server and Tableau.
-
-In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **Round** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
-
-* I got the data from Kaggle's datasets.
-* Imported dataset into **SQL Server** to clean and explore the data. 
-* Exported the cleaned Data as a **.xlsx** File.
-* Used Tableau Public to make visualizations.
-* Built a Dashboard.
-
-**Insights derived from this project:**
-1. The total number of **customers** is **1468**.
-2. The total number of **orders** is **52,524**.
-3. The total number of purchased quantities is **236,367**.
-4. The total **amount of money** spent by customers both **online and offline** is **$248,262,232.01**.
-5. The total **amount of money** spent **offline** by customers is **$148,770,500**.
-6. The total **amount of money** spent **online** by customers is **$99,491,823.01**.
-7. The **most** number of **orders** is in **Chicago** city **18,240**.
-8. **Apparel** is the most ordered product_category **18,126**.
-9. **32767** females and **19757** males make online shopping. we can conclude, that **women make online shopping more than men**.
-
-**Dataset link: https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset**
-
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Online%20shopping%20dashboard%201.png)
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Dashboard%202.png)
-
-
 
 # [SQL project: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
 
