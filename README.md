@@ -62,7 +62,6 @@ I worked on this project to show my skills in data analysis using Excel.
 
 
 
-
 # [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 
 I worked on this project to show my skills in data cleaning using Excel.
@@ -118,8 +117,8 @@ In this project, I used **select** statement, **where** clause, **Common table e
 
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20sales%20games%201.png)
-## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales%203.png)
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales%202.png)
+## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/PC%20games%20sales%203.png)
 
 
 
