@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 
 **Skills:**
-- Data analysis/wrangling skills using Excel / SQL / Python 🔎
+- Data analysis / wrangling skills using Excel / SQL / Python 🔎
 - Data visualization skills using Tableau 📊
   
   **Linkedin Profile: https://www.linkedin.com/in/ahmed-sayed-353b12189/**
