@@ -75,7 +75,7 @@ I worked on this project to uncover the following:
 
 # [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * used Excel to clean the dataset.
 * inserted the dataset into a table.
