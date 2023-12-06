@@ -107,12 +107,12 @@ In this project, I used **select** statement, **where** clause, **Common table e
 # [SQL project: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
 I worked on this project to uncover the following:
 
-1- The total of **sales**.
-2- The number of **sold** games.
-3- The **best-selling** PC game.
-4- The most **popular** and the **best-selling** genre.
-5- The most **popular** developer of PC games.
-6- The most **popular** and the **best-selling** publisher
+* The total of **sales**.
+* The number of **sold** games.
+* The **best-selling** PC game.
+* The most **popular** and **best-selling** genre.
+* The most **popular** developer of PC games.
+* The most **popular** and the **best-selling** publisher
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
 
@@ -143,10 +143,10 @@ In this project, I used **select** statement, **where** clause, **Common table e
 
 # [SQL project: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
 I worked on this project to uncover the following:
-1- The **best-selling** item.
-2- The most used **payment method**.
-3- The total **Sales**.
-4- In which **month** the sum of sales is the highest?
+* The **best-selling** item.
+* The most used **payment method**.
+* The total **Sales**.
+* In which **month** the sum of sales is the highest?
 
 In this project, I used **select** statement, **Select Top** statement **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Subquery**, and **Update** statement.	
 
