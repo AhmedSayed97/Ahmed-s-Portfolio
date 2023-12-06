@@ -74,6 +74,7 @@ I worked on this project to uncover the following:
 
 
 # [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
+I worked on this project to clean the dataset using **Excel**.
 
 **steps**:
 * I got the data from Kaggle's datasets.
@@ -92,6 +93,7 @@ I worked on this project to uncover the following:
 
 
 # [SQL project: Property sales (Melbourne City)](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Property%20sales%20(Melbourne%20City).sql)
+I worked on this project to clean the dataset using **SQL server**.
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Update** statement,and **Case** Expression.	
 
@@ -177,7 +179,7 @@ I worked on this project to show my skills in data analysis using Pandas, Matplo
 2. **Walmart** has the most number of employees.
 3. The most number of company headquarters located in **New York** city.
 4. **TD Synnex** achieved the highest revenue growth percentage **97.2%**.
-5. Most of the companies in this dataset achieved revenue growth percentage by less than **20%**. **The distribution** of the revenues growth percentage is **right-skewed**.
+5. Most of the companies in this dataset achieved revenue growth percentage of less than **20%**. **The distribution** of the revenues growth percentage is **right-skewed**.
 6. **Financials** industry has the most number of companies **11**.
 
 ## ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/e89tVzo.jpg)
