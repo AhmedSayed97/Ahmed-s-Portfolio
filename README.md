@@ -12,6 +12,15 @@
 
 
 # [Excel project: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/EPL_players_stats.xlsx)
+I worked on this project to uncover the following:
+
+1- The best **goal-scorer** in the 2021/2022 season.
+2- Who has the most **appearances** in this season?
+3- Who is the best **penalty taker** in this season?
+4- Who got the most number of **Yellow cards** during the season?
+5- Who got the most number of **Red cards** during the season?
+6- The best **goal-scorer** in the **defender** position.
+7- The best **goal-scorer** in the **midfielder** position.
 
 **Process steps**:
 * I got the data from Kaggle's datasets.
@@ -35,6 +44,12 @@
 
 
 # [Excel project: Bike buyers](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/bike_buyers.xlsx)
+I worked on this project to uncover the following:
+
+1- The total number of **males** and **females** having cars.
+2- The average income of **males** and **females**.
+3- The total number of **males** and **females** who purchased bikes.
+4- The total number of males and females who own homes.
 
 **Process steps**:
 * I got the data from Kaggle's datasets.
@@ -52,8 +67,8 @@
 5. The Average income of males and females is almost the same.
 6. The total number of **males**, who purchased **bikes** is **242** from a total of 511. the percentage is **47.35%**.
 7. The total number of **females**, who purchased **bikes** is **239** from a total of 489. the percentage is **48.87%**.
-8. The total number of **home owner males** is **351** from a total of 511. the percentage is **68.68%**.
-9. The total number of **home owner females** is **332** from a total of 489. the percentage is **67.89%**.
+8. The total number of **homeowner males** is **351** from a total of 511. the percentage is **68.68%**.
+9. The total number of **homeowner females** is **332** from a total of 489. the percentage is **67.89%**.
 
 ## Overview of the Dashboard ![](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/pictures/Bike%20buyers.png)
 
@@ -90,6 +105,14 @@ In this project, I used **select** statement, **where** clause, **Common table e
 
 
 # [SQL project: PC games sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/PC%20Games%20sales.sql)
+I worked on this project to uncover the following:
+
+1- The total of **sales**.
+2- The number of **sold** games.
+3- The **best-selling** PC game.
+4- The most **popular** and the **best-selling** genre.
+5- The most **popular** developer of PC games.
+6- The most **popular** and the **best-selling** publisher
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
 
@@ -101,7 +124,7 @@ In this project, I used **select** statement, **where** clause, **Common table e
 * Built a Dashboard.
 
 **Insights derived from this project:**
-1. The total number of **sales** is **$549,700,000**.
+1. The total **sales** is **$549,700,000**.
 2. The number of **sold** games is **175**.
 3. The **best-selling** PC game is **PlayerUnknown's Battlegrounds** **$42,000,000**.
 4. The most **popular** genre is the **Real-Time** strategy.
@@ -119,6 +142,11 @@ In this project, I used **select** statement, **where** clause, **Common table e
 
 
 # [SQL project: Fashion retail sales](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/Fashion_Retail_Sales.sql)
+I worked on this project to uncover the following:
+1- The **best-selling** item.
+2- The most used **payment method**.
+3- The total **Sales**.
+4- In which **month** the sum of sales is the highest?
 
 In this project, I used **select** statement, **Select Top** statement **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Subquery**, and **Update** statement.	
 
@@ -133,8 +161,8 @@ In this project, I used **select** statement, **Select Top** statement **where**
 **Insights derived from this project:**
 1. The **best-selling** item is **Tunic** **$17,275**.
 2. **Credit Card** is the **most** used **Payment method**.
-3. The total number of **sales** is **$430,952**.
-4. The **highest** number of sales is in **May** month.
+3. The total **sales** is **$430,952**.
+4. The **highest** sum of sales is in **May** month.
 
 **Dataset link: https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales**
 
