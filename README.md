@@ -13,16 +13,15 @@
 
 # [Excel project: English Premier League (EPL) Players stats](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/EPL_players_stats.xlsx)
 I worked on this project to uncover the following:
+* The best **goal-scorer** in the 2021/2022 season.
+*  Who has the most **appearances** in this season?
+* Who is the best **penalty-taker** in this season?
+* Who got the most number of **Yellow cards** during the season?
+* Who got the most number of **Red cards** during the season?
+* The best **goal-scorer** in the **defender** position.
+* The best **goal-scorer** in the **midfielder** position.
 
-1- The best **goal-scorer** in the 2021/2022 season.
-2- Who has the most **appearances** in this season?
-3- Who is the best **penalty taker** in this season?
-4- Who got the most number of **Yellow cards** during the season?
-5- Who got the most number of **Red cards** during the season?
-6- The best **goal-scorer** in the **defender** position.
-7- The best **goal-scorer** in the **midfielder** position.
-
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * Started the project by cleaning the data (checked if there were any duplicate values or missing values) no duplicates or missing values were found.
 * Cleaned the data in the player column by removing unwanted characters and inserting the player's names correctly using **Find&Replace**.
@@ -45,13 +44,12 @@ I worked on this project to uncover the following:
 
 # [Excel project: Bike buyers](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/bike_buyers.xlsx)
 I worked on this project to uncover the following:
+* The total number of **males** and **females** having cars.
+* The average income of **males** and **females**.
+* The total number of **males** and **females** who purchased bikes.
+* The total number of males and females who own homes.
 
-1- The total number of **males** and **females** having cars.
-2- The average income of **males** and **females**.
-3- The total number of **males** and **females** who purchased bikes.
-4- The total number of males and females who own homes.
-
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, and no missing values were found.
 * Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** column From **M** and **S** to **Married** and **Single** using **Find&Replace**.
@@ -97,7 +95,7 @@ I worked on this project to uncover the following:
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Update** statement,and **Case** Expression.	
 
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean the data. 
 
@@ -116,7 +114,7 @@ I worked on this project to uncover the following:
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
 
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
@@ -150,7 +148,7 @@ I worked on this project to uncover the following:
 
 In this project, I used **select** statement, **Select Top** statement **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Subquery**, and **Update** statement.	
 
-**Process steps**:
+**steps**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
