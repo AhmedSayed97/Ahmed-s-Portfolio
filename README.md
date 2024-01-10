@@ -21,7 +21,7 @@ I worked on this project to uncover the following:
 * The best **goal-scorer** in the **defender** position.
 * The best **goal-scorer** in the **midfielder** position.
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * Started the project by cleaning the data (checked if there were any duplicate values or missing values) no duplicates or missing values were found.
 * Cleaned the data in the player column by removing unwanted characters and inserting the player's names correctly using **Find&Replace**.
@@ -49,7 +49,7 @@ I worked on this project to uncover the following:
 * The total number of **males** and **females** who purchased bikes.
 * The total number of males and females who own homes.
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * Started the project by cleaning the data (checked if there are any duplicate values or missing values) 26 duplicates were found, and no missing values were found.
 * Changed the data in **Gender** Column From **F** and **M** to **Female** and **Male**, the data in **Marital Status** column From **M** and **S** to **Married** and **Single** using **Find&Replace**.
@@ -76,7 +76,7 @@ I worked on this project to uncover the following:
 # [Excel project: Online Automotive Sales in Turkey](https://github.com/AhmedSayed97/Ahmed-s-Portfolio/blob/main/files/online_car-sales.xlsx)
 I worked on this project to clean the dataset using **Excel**.
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * used Excel to clean the dataset.
 * inserted the dataset into a table.
@@ -97,7 +97,7 @@ I worked on this project to clean the dataset using **SQL server**.
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Update** statement,and **Case** Expression.	
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean the data. 
 
@@ -116,7 +116,7 @@ I worked on this project to uncover the following:
 
 In this project, I used **select** statement, **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, and **Update** statement.	
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
@@ -150,7 +150,7 @@ I worked on this project to uncover the following:
 
 In this project, I used **select** statement, **Select Top** statement **where** clause, **Common table expressions** (CTEs), **Row_number()** function, **Over()** window function, **partition by** expression, **Distinct** function, **IS NULL** operator, **Delete** statement, **AVG()** function, **Sum()** function, **Max()** function, **Min()** function, **Count()** function, **Order by** clause, **Group by** statement, **Aliases**, **Alter table** statement, **Subquery**, and **Update** statement.	
 
-**steps**:
+**process**:
 * I got the data from Kaggle's datasets.
 * Imported dataset into **SQL Server** to clean and explore the data. 
 * Exported the cleaned Data as a **.xlsx** File.
